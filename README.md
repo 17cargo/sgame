@@ -1,1 +1,5 @@
 # sgame
+
+## CONTRIBUTORS
+
+- divinerapier
